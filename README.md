@@ -1,10 +1,18 @@
-# Recipes App
-Projeto da [Trybe](https://www.betrybe.com/).
+# Inventory Report
+Projeto de gerador de relatórios desenvolvido para [Trybe](https://www.betrybe.com/).
 
 ## 💻 Projeto
 
+O objetivo é receber arquivos contendo informações sobre um estoque específico e, em seguida, produzir um relatório abrangente com base nesses dados. Esses dados de estoque poderão ser obtidos de duas fontes:
+- Através da importação de um arquivo CSV;
+- Através da importação de um arquivo JSON;
+
+Além disso, o relatório final possuirá duas versões: simples e completa.
+
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
+- Python
+
 
 ## 💬 Contato
 
